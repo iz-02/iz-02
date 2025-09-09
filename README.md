@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Izzat
  
 I’m constantly learning/practicings skills in **SQL, Python, Excel, and Tableau**.  
-Below is some of the projects I've had with real world data
+Below is some of the projects I've worked on.
 
 ---
 
