@@ -5,7 +5,7 @@ Below is some of the projects I've worked on.
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### 📊 Excel Sales Dashboard
 - Interactive dashboard using pivot tables, slicers, and charts.  
