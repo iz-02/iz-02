@@ -32,6 +32,11 @@ Below are some of my projects around my personal interests.
 
 ---
 
+### 📊 Excel Projects
+- **Bike Sales:** Built a dashboard using pivot tables, slicers, and charts to show sales KPIs.  
+- **Laptop Sales:** Laptop sales KPIs  
+
+
 ## 🛠️ Skills
 
 * **Data Tools:** SQL (MySQL, SQL Server), Python (pandas, matplotlib,re,seaborn), Tableau, Excel
