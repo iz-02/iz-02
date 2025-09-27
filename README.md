@@ -2,7 +2,7 @@
 
 I’m a data analyst who enjoys working with data to see actionable patterns. I work with **SQL, Python, Tableau, and Excel** to clean, analyze, and visualize data and plan to expand into cloud tools like AWS.
 
-Below are some of my personal projects involving my interests. 
+Below are some of my projects around my personal interests. 
 
 ---
 
