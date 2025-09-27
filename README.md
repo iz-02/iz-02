@@ -1,38 +1,44 @@
 # 👋 Hi, I'm Izzat
- 
-I’m constantly learning/practicings skills in **SQL, Python, Excel, and Tableau**, and I plan to pursue an AWS certification soon as well.  
-Below is some of the projects I've worked on.
+
+I’m a data analyst who enjoys working with data to see actionable patterns. I work with **SQL, Python, Tableau, and Excel** to clean, analyze, and visualize data and plan to expand into cloud tools like AWS.
+
+Below are some of my personal projects involving my interests. 
 
 ---
 
-##  Projects
 
-### 📊 Excel Sales Dashboard
-- Interactive dashboard using pivot tables, slicers, and charts.  
-- Highlights key sales trends and KPIs.  
-🔗 [View Project](https://github.com/YOUR-USERNAME/excel-sales-dashboard)
+### 🚗 U.S. Vehicle Accidents Dashboard
 
+* Processed and cleaned **500K+ accident records** using Python.
+* Analyzed some patterns in python and built a tableau dashboard for visuals
+  🔗 [GitHub Repo](https://github.com/iz-02/Transportation-Accidents-Project/blob/main/README.md) | [View Tableau dashboard](https://public.tableau.com/app/profile/izzat.shuhratov/viz/Transportation_Accidents_Analysis/Dashboard1)
 
+### 🥊 UFC Fight Outcomes Analysis
 
-### 📈 Airbnb Tableau Analysis
-- Visualized Airbnb listings data in Tableau.  
-- Compared prices, room types, and instant-bookable listings.  
-🔗 [View on Tableau Public](https://public.tableau.com/app/profile/YOUR-NAME/viz/AirbnbDashboard)
+* Analyzed fight data to show trends in win rates, age groups, and fighting styles.
+* Used Python for data cleaning and visualizing.
+  🔗 [GitHub Repo](https://github.com/iz-02/UFC-Outcome_Project/blob/main/README.md)
 
+### 🍽️ Restaurant Dashboard
 
+* Cleaned and transformed sales data in Python.
+* Designed an interactive Tableau dashboard to track KPIs and highlight trends.
+  🔗 [GitHub Repo](https://github.com/iz-02/restaurants-full-project/blob/main/README.md) | [View Dashboard](https://public.tableau.com/app/profile/izzat.shuhratov/viz/restaurant_project_17571920728020/Dashboard1?publish=yes)
 
 ### 🗄️ SQL World Database Queries
-- Wrote queries using the MySQL “world” database.  
-- Examples:  
-  - Largest city in each country  
-  - Countries grouped by region and population  
-  - Joins between city & country tables  
-🔗 [View Project](https://github.com/YOUR-USERNAME/world-sql-queries)
 
-
-
-## 📫 Connect with Me
-- 📧 Email: izzat0813@gmail.com
+* Just practicing SQL queries with “world” dataset.
+  🔗 [GitHub Repo](https://github.com/iz-02/sql-world-database?tab=readme-ov-file)
 
 ---
+
+## 🛠️ Skills
+
+* **Data Tools:** SQL (MySQL, SQL Server), Python (pandas, matplotlib,re,seaborn), Tableau, Excel
+* **Focus Areas:** Data cleaning, trend analysis, dashboards, KPIs
+
+---
+
+## 📫 Connect
+* 📧 Email: [izzat0813@gmail.com](mailto:izzat0813@gmail.com)
 
