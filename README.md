@@ -6,18 +6,18 @@ Below are some of my projects around my personal interests.
 
 ---
 
+### 🥊 UFC Fight Outcomes Analysis
+
+* Analyzed fight data to show trends in win rates, age groups, and fighting styles.
+* Used Python for data cleaning and visualizing.
+  🔗 [GitHub Repo](https://github.com/iz-02/UFC-Outcome_Project/blob/main/README.md)
+
 
 ### 🚗 U.S. Vehicle Accidents Dashboard
 
 * Processed and cleaned **500K+ accident records** using Python.
 * Used Python and Tableau for visual KPIs
   🔗 [GitHub Repo](https://github.com/iz-02/Transportation-Accidents-Project/blob/main/README.md) | [View Tableau dashboard](https://public.tableau.com/app/profile/izzat.shuhratov/viz/Transportation_Accidents_Analysis/Dashboard1)
-
-### 🥊 UFC Fight Outcomes Analysis
-
-* Analyzed fight data to show trends in win rates, age groups, and fighting styles.
-* Used Python for data cleaning and visualizing.
-  🔗 [GitHub Repo](https://github.com/iz-02/UFC-Outcome_Project/blob/main/README.md)
 
 ### 🍽️ Restaurant Dashboard
 
