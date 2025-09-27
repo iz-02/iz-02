@@ -33,8 +33,8 @@ Below are some of my projects around my personal interests.
 ---
 
 ### 📊 Excel Projects
-- **Bike Sales:** Built a dashboard using pivot tables, slicers, and charts to show sales KPIs.  
-- **Laptop Sales:** Laptop sales KPIs  
+- **[Bike Sales](https://github.com/iz-02/excel-bike-sales):** Built a dashboard using pivot tables, slicers, and charts to show sales KPIs.  
+-  **[Laptop Sales](https://github.com/iz-02/excel-laptop-sales):** Laptop sales KPIs  
 
 
 ## 🛠️ Skills
